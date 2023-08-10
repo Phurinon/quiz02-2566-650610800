@@ -8,7 +8,6 @@ export const Comment = ({
   likeNum,
   replies,
 }) => {
-  const [isLiked, setIsLiked] = useState(false);
   return (
     <div className="d-flex gap-2 my-2">
       <img
