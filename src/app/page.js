@@ -31,7 +31,7 @@ export default function HomePage() {
             </span> */}
             <PostOwner
               name="Phurinon Foeythika"
-              studentId="6506100800"
+              studentId="650610800"
               imgUrl={"/profileImages/รูปทำเนียบ.png"}
             />
           </div>
